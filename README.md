@@ -10,7 +10,8 @@ Example:
    Also there were some records with sales in USD so I have converted the sales amount from USD to INR for those records.
 3. Created a new measure - Sales QTY and Revenue.
 
-4. ![Alt text](https://github.com/kaur-b76/Sales-Insights/blob/main/Screenshot%202024-10-05%20at%2018.42.04.png)
+Here's the final Dashboard
+![Alt text](https://github.com/kaur-b76/Sales-Insights/blob/main/Screenshot%202024-10-05%20at%2018.42.04.png)
 
 
 
