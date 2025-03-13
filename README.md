@@ -15,3 +15,8 @@ Here's the final Dashboard
 
 
 
+## License & Usage Restrictions  
+This repository is provided for viewing only. Downloading, modifying, or using this work for any purpose is strictly prohibited. See the [LICENSE](./LICENSE) file for details.
+
+
+
